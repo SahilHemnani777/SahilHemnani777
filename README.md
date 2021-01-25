@@ -23,3 +23,10 @@
 
 <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" /> [Sahil Hemnani](https://twitter.com/sahil_hemnani)
 
+#Thoughts
+---
+```python
+while(!succeed())
+  try()
+```
+>Don't work hard or smart, just work
