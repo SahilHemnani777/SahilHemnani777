@@ -2,6 +2,8 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHqHrulIrnEuQ/profile-displaybackgroundimage-shrink_350_1400/0/1609998768630?e=1617235200&v=beta&t=z5EE-3iPrFhzUerEKdfQtqwz9PgCNgayUY-rPTvT_hs)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SahilHemnani777)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on `Android Development`
 - 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
 - 🌱 I’m currently learning `Firebase` and `MySql`
@@ -16,3 +18,4 @@
 <img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" data-canonical-src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="30" height="30" /> [hemnanisahil777@gmail.com](hemnanisahil777@gmail.com)
 
 <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" /> [Sahil Hemnani](https://twitter.com/sahil_hemnani)
+
