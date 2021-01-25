@@ -1,4 +1,4 @@
-### Sahil this side 👋
+### I'm Sahil- Android Developer, MLAI Enthusiast 👋
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHqHrulIrnEuQ/profile-displaybackgroundimage-shrink_350_1400/0/1609998768630?e=1617235200&v=beta&t=z5EE-3iPrFhzUerEKdfQtqwz9PgCNgayUY-rPTvT_hs)
 
@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Android projects and Research internships
 - 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
 - 💬 Ask me about Technology in `Android`, `FireBase` and `VCS`
-- 📫 How to reach me: [Linked](https://www.linkedin.com/in/sahil-hemnani-8084b41a6/)
 
 #Connect with me 
 ---
