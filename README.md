@@ -29,4 +29,4 @@
 while(!succeed())
   try()
 ```
->Don't work hard or smart, just work
+>Don't work hard or smart, just work!
