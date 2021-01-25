@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on `Android Development`
 - 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
 - 🌱 I’m currently learning `Firebase` and `MySql`
+- 🤞 Currently working on Event Management Android Application 
 - 👯 I’m looking to collaborate on Android projects and Research internships
 - 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
 - 💬 Ask me about Technology in `Android`, `FireBase` and `VCS`
