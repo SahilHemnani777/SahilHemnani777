@@ -16,7 +16,7 @@
 - 💬 Ask me about Technology in `Android`, `FireBase` and `VCS`
 
 # Connect with me 
----
+
 <img src="https://image.flaticon.com/icons/png/512/174/174857.png" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30" /> [Sahil Hemnani](https://www.linkedin.com/in/sahil-hemnani-8084b41a6/)
 
 <img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" data-canonical-src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="30" height="30" /> [hemnanisahil777@gmail.com](hemnanisahil777@gmail.com)
@@ -24,7 +24,7 @@
 <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" /> [Sahil Hemnani](https://twitter.com/sahil_hemnani)
 
 # Thoughts
----
+
 ```python
 while(!succeed())
   try()
