@@ -2,7 +2,11 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHqHrulIrnEuQ/profile-displaybackgroundimage-shrink_350_1400/0/1609998768630?e=1617235200&v=beta&t=z5EE-3iPrFhzUerEKdfQtqwz9PgCNgayUY-rPTvT_hs)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SahilHemnani777)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SahilHemnani777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHemnani777)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SahilHemnani777)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on `Android Development`
 - 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
