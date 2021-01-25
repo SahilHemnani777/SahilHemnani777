@@ -23,6 +23,9 @@
 
 <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" /> [Sahil Hemnani](https://twitter.com/sahil_hemnani)
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="30" height="30" /> [@hemnanisahil777](https://medium.com/@hemnanisahil777)
+
 # Thoughts
 
 ```python
