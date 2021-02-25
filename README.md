@@ -13,7 +13,7 @@
 - 🤞 Currently working on Event Management Android Application 
 - 👯 I’m looking to collaborate on Android projects and Research internships
 - 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
-- 💬 Ask me about Technology in `Android`, `FireBase` and
+- 💬 Ask me about Technology in `Android`, `FireBase` and `ML`
 
 # Connect with me 
 
