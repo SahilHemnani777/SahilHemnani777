@@ -9,13 +9,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHemnani777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently doing `Android Development` with `flutter` and `dart`
-- 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
-- 🌱 I’m currently learning `Machine Learning` and `flutter`
-- 🤞 Currently working on [forkNcommit](https://github.com/forkNcommit2021/forkNcommit2021)- our organization
-- 👯 I’m looking to collaborate on flutter projects and Research internships
-- 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
-- 💬 Ask me about Technology in `Android`, `FireBase` and `ML`
+ 🔭 I’m currently doing `Android Development` with `flutter` and `dart`
+ 
+ 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
+ 
+ 
+ 🌱 I’m currently learning `Machine Learning` and `flutter`
+ 
+ 🤞 Currently working on [forkNcommit](https://github.com/forkNcommit2021/forkNcommit2021)- our organization
+ 
+ 👯 I’m looking to collaborate on flutter projects and Research internships
+ 
+ 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
+ 
+ 💬 Ask me about Technology in `Android`, `FireBase` and `ML`
 
 # Connect with me 
 
