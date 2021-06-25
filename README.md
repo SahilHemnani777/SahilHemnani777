@@ -1,28 +1,26 @@
 <div align="center" id="top"> 
 
-### 👲 I'm Sahil- Android Developer, MLAI Enthusiast 👋
+### 👲 I'm Sahil- Full Stack Developer, DevOps Enthusiast 👋
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHqHrulIrnEuQ/profile-displaybackgroundimage-shrink_350_1400/0/1609998768630?e=1617235200&v=beta&t=z5EE-3iPrFhzUerEKdfQtqwz9PgCNgayUY-rPTvT_hs)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SahilHemnani777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHemnani777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 🔭 I’m currently doing `Android Development` with `flutter` and `dart`
+ 🔭 I’m currently doing `Full Stack Development` with `flutter` and `dart`
  
- 👲 Android Project Intern at [ECGIT pvt lmtd](https://www.ecgit.in/)
+ 👲 Flutter and Research Intern at `Tenfins Constulting`
  
- 
- 🌱 I’m currently learning `Machine Learning` and `flutter`
+ 🌱 I’m currently learning `Kubernetes`  `DevOps`
  
  🤞 Currently working on [forkNcommit](https://github.com/forkNcommit2021/forkNcommit2021)- our organization
  
  👯 I’m looking to collaborate on flutter projects and Research internships
  
- 🤔 2021 Goal: Learn Machine Learning and Artificial Inteligance
+ 🤔 2021 Goal: Learn DevOps
  
- 💬 Ask me about Technology in `Android`, `FireBase` and `ML`
+ 💬 Ask me about Technology in `Docker`, `Dart` and `DevOps`
 
 # Connect with me 
 
@@ -41,4 +39,4 @@
 while(!succeed())
   try()
 ```
->Don't work hard or smart, just work!
+>You must finish what you start and finish well!
