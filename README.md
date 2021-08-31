@@ -4,12 +4,12 @@
 
 
 - 🔭 I’m currently doing `Full Stack Development` with `flutter` and `dart`
-- 👲 Flutter and Research Intern at `Tenfins Constulting`
-- I’m currently learning `Kubernetes`  `DevOps`
-- 🤞Currently working on [forkNcommit](https://github.com/forkNcommit2021/forkNcommit2021)- our organization
-- 👯I’m looking to collaborate on flutter projects and Research internships
-- 🤔 2021 Goal: Learn DevOps
-- 💬 Ask me about Technology in `Docker`, `Dart` and `DevOps`
+- 👲 Software Developer and Research Intern at `Tenfins Constulting`
+- I’m currently learning `Kubernetes`  `DevOps` `LFS- Linux from scratch`
+- 🤞Currently working as Webmasters Lead- our organization ITSA
+- 👯I’m looking to collaborate on Full Stack Development projects and Research related to OS.
+- 🤔 2021 Goal: Learn DevOps + Developing a OS from scratch
+- 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps`
  
  
 <details>
@@ -32,25 +32,21 @@
 </details>
 
 <details>
- <summary><b>Contact me</b></summary>
- 
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30" /> [Sahil Hemnani](https://www.linkedin.com/in/sahil-hemnani-8084b41a6/)
-
-<img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" data-canonical-src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="30" height="30" /> [hemnanisahil777@gmail.com](hemnanisahil777@gmail.com)
-
-<img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" data-canonical-src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" /> [Sahil Hemnani](https://twitter.com/sahil_hemnani)
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="30" height="30" /> [@hemnanisahil777](https://medium.com/@hemnanisahil777)
-
-</details>
-
-<details>
  <summary><b>My Toughts</b></summary>
 
 ```python
 while(!succeed())
   try()
 ```
->You must finish what you start and finish well!
+>You must finish what you start and finish it well!
 </details>
+
+<details open>
+ <summary><b>Connect with me</b></summary>
+
+ [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemnanisahil777@gmail.com)
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-hemnani-8084b41a6/)
+ [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hemnanisahil777.medium.com/)
+ [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahil_hemnani)
+</details>
+
