@@ -4,11 +4,10 @@
 
 
 - 🔭 I’m currently doing `Full Stack Development` with `flutter` and `dart`
-- 👲 Software Developer and Research Intern at `Tenfins Constulting`
+- 👲 Software Developer and Software Developer at `ECGiT pvt. ltd.`
 - I’m currently learning `Kubernetes`  `DevOps` `LFS- Linux from scratch`
-- 🤞Currently working as Webmasters Lead- our organization ITSA
 - 👯I’m looking to collaborate on Full Stack Development projects and Research related to OS.
-- 🤔 2021 Goal: Learn DevOps + Developing a OS from scratch
+- 🤔 2022 Goal: Learn Developing a OS from scratch
 - 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps`
  
  
